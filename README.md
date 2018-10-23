@@ -1,6 +1,6 @@
 # Express API
 
-![code](img/ra-code.png)
+![code](img/ra-code.jpg)
 
 ## Introduction
 
